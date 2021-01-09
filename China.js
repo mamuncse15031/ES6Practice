@@ -10,4 +10,11 @@ function Cosmetics(){
     console.log("Cosmetics is exported to Bangladesh");
 }
 
-export{laptop, MobilePhn, Cosmetics};
+class China{
+
+    toys(){
+
+        alert("Toys are imported. Thank you");
+    }
+}
+export{laptop, MobilePhn, Cosmetics, China};
