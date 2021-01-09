@@ -17,4 +17,5 @@ class China{
         alert("Toys are imported. Thank you");
     }
 }
-export{laptop, MobilePhn, Cosmetics, China};
+export{laptop, MobilePhn, Cosmetics};
+export default China;
